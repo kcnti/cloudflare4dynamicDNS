@@ -2,4 +2,4 @@
 
 For Dynamic DNS //// home network
 
-TLD tk cf ml ... not allowed
+TLD tk cf ml ... wont work
