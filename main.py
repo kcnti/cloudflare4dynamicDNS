@@ -2,10 +2,10 @@ import requests
 import json
 
 IP = requests.get("https://ipinfo.io/json").json()["ip"]
-ZONE = "3b8dec43def63db386f5c74cc1ec5517"
-DOMAIN_NAME = "kanti.pw"
-EMAIL = "kantinun99998@gmail.com"
-GLOBAL_KEY = "d2aaf034242a29f2937c425860ed327fb2ad4"
+ZONE = "zone id"
+DOMAIN_NAME = "***"
+EMAIL = "your mail"
+GLOBAL_KEY = "global key"
 
 def dnsDetails():
     # Get dns record details
